@@ -242,11 +242,12 @@ export default function Home() {
         />
       )}
 
-      {/* Boton Flotante para regresar arriba */}
+      {/* Botón Flotante para Regresar Arriba */}
       {showTopButton && (
         <button
           onClick={scrollToTop}
-          className="fixed bottom-6 right-6 bg-andean-emerald hover:bg-andean-emerald-hover text-white p-3 rounded-full shadow-lg transition-all duration-300 hover:scale-110 cursor-pointer z-50 flex items-center justify-center animate-bounce"
+          /* Cambiamos bg-andean-emerald por bg-[var(--color-andean-emerald)] */
+          className="fixed bottom-6 right-6 bg-[var(--color-andean-emerald)] hover:bg-[var(--color-andean-emerald-hover)] text-white p-3 rounded-full shadow-lg transition-all duration-300 hover:scale-110 cursor-pointer z-50 flex items-center justify-center animate-bounce"
           title="Volver al inicio"
         >
           <svg
