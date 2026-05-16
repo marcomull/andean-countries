@@ -17,7 +17,7 @@ Aplicación web interactiva desarrollada para la gestión y exploración de dest
 
 1. Clona el repositorio:
    ```bash
-   git clone [https://github.com/marcomull/andean-countries.git](https://github.com/marcomull/andean-countries.git)
+   git clone https://github.com/marcomull/andean-countries.git
    ```
 2. Dependencias 
    ```bash
