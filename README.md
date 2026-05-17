@@ -1,4 +1,4 @@
-# Andean Explorations - Panel Interno TI - Prueba Tecnica 
+# Panel Interno TI - Prueba Tecnica 
 
 Aplicación web interactiva desarrollada para la gestión y exploración de destinos globales, consumiendo la API pública de países. Diseñada con un enfoque de código limpio, modular y resiliente a errores.
 
@@ -17,7 +17,7 @@ Aplicación web interactiva desarrollada para la gestión y exploración de dest
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/marcomull/andean-countries.git
+   git clone https://github.com/marcomull/Prueba-Tecnica.git
    ```
 2. Dependencias 
    ```bash

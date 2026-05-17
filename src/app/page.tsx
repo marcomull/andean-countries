@@ -112,7 +112,7 @@ export default function Home() {
           <div className="flex items-center gap-3">
             <div className="w-4 h-4 rounded-full bg-andean-emerald animate-pulse" />
             <h1 className="text-xl font-bold tracking-tight uppercase text-stone-900">
-              Andean <span className="text-andean-emerald font-light">Explorations</span>
+              Prueba <span className="text-andean-emerald font-light">Técnica</span>
             </h1>
           </div>
           <span className="text-xs bg-emerald-50 text-andean-emerald font-medium px-3 py-1 rounded-full border border-emerald-200/50">

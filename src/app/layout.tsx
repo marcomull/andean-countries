@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Andean Explorations | Panel de Destinos",
-  description: "Catálogo interno para la gestión de destinos turísticos globales de Andean.",
+  title: "Prueba Técnica | Panel de Destinos",
+  description: "Catálogo de destinos globales.",
 };
 
 export default function RootLayout({
